@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "807397961889",
+    "firebase_url": "https://avgarde-32298.firebaseio.com",
+    "project_id": "avgarde-32298",
+    "storage_bucket": "avgarde-32298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807397961889:android:6585a88c2817d974",
+        "android_client_info": {
+          "package_name": "com.royce.avgarde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807397961889-j665u0j2f7lp8c4ejtb48l1kqr15qqs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQg5e_B0VKv5R6-j2Nq7jVnzbyKgDJGPM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

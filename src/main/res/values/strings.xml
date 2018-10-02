@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Avgarde</string>
+    <string name="get_started">Let\'s get started</string>
+
+    <string name="label_tnc">I accept the privacy policy and terms and conditions</string>
+    <string name="label_cer">I certify that all information provided here is correct</string>
+
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Transgender</item>
+    </string-array>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
